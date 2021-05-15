@@ -6,7 +6,7 @@ In this series of videos, we will understand the fundamentals concepts of Google
 
  Just get started. No prior knowledge of cloud computing or Google Cloud platform knowledge is required. 🎯
 
-# Youtube Video Series |  
+# Youtube Video Series 
 
 
 - Part 1 - [Beginners Guide To Google Cloud Platform (GCP) | Series Introduction ](https://www.youtube.com/watch?v=SUgBXnSFVwI)
@@ -17,9 +17,14 @@ In this series of videos, we will understand the fundamentals concepts of Google
 
 
 
-## Subscribe To [My Youtube Channel](https://www.youtube.com/channel/UCIv1wEA0YuYZZygLi2K9z4g)
+### Subscribe To [My Youtube Channel](https://www.youtube.com/channel/UCIv1wEA0YuYZZygLi2K9z4g)
+
+ ## Gadgets Used for Recording this youtube Series video : 
+
+-  Condenser Microphone:  https://amzn.to/3tmv2of
+-  Digital Graphics Drawing Pen Tablet: https://amzn.to/3smiNqq
 
 # Connect With Me
-👉 Blog: (https://abhijjitjana.net)
-👉 Twitter: (https://twiter.com/abhijitjana.net)
-👉 Website: (Https://dailydotnettips.com)
+- Blog: (https://abhijjitjana.net)
+- Twitter: (https://twiter.com/abhijitjana.net)
+-  Website: (Https://dailydotnettips.com)
